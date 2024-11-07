@@ -1,2 +1,2 @@
 # SWERC
-Raggruppa problemi di vario genere per esercitarsi
+Il goal è raggrupare soluzioni a problemi di vario genere per esercitarsi
