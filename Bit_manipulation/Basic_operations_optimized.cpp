@@ -11,7 +11,7 @@ int main(){
     if(n & 1){
         cout << n << " is odd" <<endl;
     }
-    
+
 /*
     /AND
     &
@@ -47,6 +47,11 @@ int main(){
 
     //Toggle the k-th bit
     n ^= (1 << k);
+
+    //check if n it is a power of 2
+    (n > 0 && (n & (n - 1)) == 0);
+
+
 
 
 
