@@ -1,3 +1,9 @@
+/*
+    Chiedo quante somme combinazioni di subset ci sono che restituiscono la somma richiesta
+    1 2 3 3 ha 2 combinazioni possibili 1-2-3 3-3 1-2-3 (considero il 3 diverso da quello prima)
+*/
+
+
 #include <iostream>
 #include <vector>
 
