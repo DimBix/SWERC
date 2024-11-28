@@ -25,7 +25,6 @@ int knapsack(int capacity, const vector<int>& weights, const vector<int>& values
         }
     }
 
-
     return dp[n][capacity];
 }
 
